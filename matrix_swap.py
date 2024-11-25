@@ -1,6 +1,7 @@
 import random
 
 def print_menu():
+    pass
     print("\nМеню:")
     print("1. Ввод исходных данных вручную")
     print("2. Генерация случайной матрицы")
